@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StopwatchManager.resume():StopwatchManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.elapsedTime">
+            </PersistentString>
+            <PersistentString
+               value = "Double(Int(self.elapsedTime) % selectedSession!.interval)">
+            </PersistentString>
+            <PersistentString
+               value = "self.elapsedTime.truncatingRemainder(dividingBy: 1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in StopwatchManager.startSession(sessionType:):StopwatchManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mealViewModel.dotsPosition.count">
+            </PersistentString>
+            <PersistentString
+               value = "Double(Int(self.elapsedTime) % sessionType.interval) + self.elapsedTime.truncatingRemainder(dividingBy: 1)">
+            </PersistentString>
+            <PersistentString
+               value = "sessionType.interval">
+            </PersistentString>
+            <PersistentString
+               value = "self.elapsedTime">
+            </PersistentString>
+            <PersistentString
+               value = "self.animationProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

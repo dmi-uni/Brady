@@ -1,0 +1,25 @@
+/* No comment provided by engineer. */
+"Brady" = "Brady";
+
+/* No comment provided by engineer. */
+"End" = "Закончить";
+
+/* No comment provided by engineer. */
+"Hi! I'm Brady and I'm going to help you to eat more slowly. Let's start!" = "Привет! Я Брэди и я помогу тебе кушать медленнее. Давай начнём!";
+
+/* No comment provided by engineer. */
+"Hi! Take a bite when you feel the vibration and try follow the rhythm!" = "Клади еду себе в рот только когда чувствуешь вибрацию и следуй ритму!";
+
+/* No comment provided by engineer. */
+"Pause" = "Пауза";
+
+/* No comment provided by engineer. */
+"Resume" = "Продолжить";
+
+/* No comment provided by engineer. */
+"Yup! Your meal lasted %@ min. Have a nice digestion!" = "Супер! Твой приём пищи длился %@ минут. ";
+
+"Easy" = "Легко";
+"Medium" = "Средне";
+"High" = "Сложно";
+"Pro" = "Эксперт";
